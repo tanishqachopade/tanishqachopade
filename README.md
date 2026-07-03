@@ -1,6 +1,6 @@
 # Hi, I'm Tanishqa!
 
-Computer Science & Engineering student at COEP Technological University.
+A Computer Science & Engineering student at COEP Technological University.
 
 I'm interested in building products that solve real, practical problems.
 
