@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Tanishqa
 
-<!--
-**tanishqachopade/tanishqachopade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Engineering student at COEP Technological University.
 
-Here are some ideas to get you started:
+I'm interested in software engineering, AI applications, and building products that solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+
+* Building SponsorDesk
+* Developing Quantum Kidz
+* Working on MedVirtuoso
+* Practicing Data Structures & Algorithms
+
+### Tech
+
+Java • TypeScript • JavaScript • React • Next.js • Node.js • PostgreSQL • Prisma • Tailwind CSS • Docker
+
+### Find me
+
+* LinkedIn
+* Email
