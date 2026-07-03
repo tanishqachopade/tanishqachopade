@@ -1,15 +1,8 @@
-# Hi, I'm Tanishqa
+# Hi, I'm Tanishqa!
 
 Computer Science & Engineering student at COEP Technological University.
 
-I'm interested in software engineering, AI applications, and building products that solve practical problems.
-
-### Currently
-
-* Building SponsorDesk
-* Developing Quantum Kidz
-* Working on MedVirtuoso
-* Practicing Data Structures & Algorithms
+I'm interested in building products that solve real, practical problems.
 
 ### Tech
 
@@ -17,5 +10,5 @@ Java • TypeScript • JavaScript • React • Next.js • Node.js • Postgre
 
 ### Find me
 
-* LinkedIn
-* Email
+* LinkedIn: https://www.linkedin.com/in/tanishqa-chopade-781973331/
+* Email: tanishqa.chopade@gmail.com
